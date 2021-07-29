@@ -1,0 +1,5 @@
+a = "banana"
+B = "uva"
+C = "laranja"
+d = "manga"
+e = "maça"
